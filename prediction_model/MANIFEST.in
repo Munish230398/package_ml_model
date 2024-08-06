@@ -1,0 +1,13 @@
+include *.txt
+include *.md 
+include *.py 
+recursive-include ./employee_attrition/*
+
+include employee_attrition/datasets/*.csv
+include employee_attrition/trainded_model/*.pkl
+include employee_attrition/preprocessing/*.py 
+
+include ./tests/* 
+
+recursive-exclude * __pycache__ 
+recursive-exclude * *.py[co]

@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: prediction_model
+Version: 1.0.0
+Summary:  Employee attrition prdiction model
+Author: Munish Singh Danu
+Requires-Python: >=3.10.14
+Description-Content-Type: text/markdown
+Requires-Dist: pandas==2.2.2
+Requires-Dist: numpy==1.26.4
+Requires-Dist: joblib==1.4.2
+Requires-Dist: imbalanced-learn==0.12.3
+Requires-Dist: scikit-learn==1.5.1
+Requires-Dist: scipy==1.14.0
+Requires-Dist: setuptools==69.5.1
+Requires-Dist: wheel==0.43.0
+
+ Employee attrition prdiction model
